@@ -1,0 +1,605 @@
+locationNumber,name,yiddishName,region
+31357,Jerusalem,Jerušolájim,
+32358,Safed,Cfos,
+44264,Bucureşti,Búkarešt,T - Transcarpathia
+45229,Hunedoara,Hunjedórə,T - Transcarpathia
+45273,Brăila,Brájlə,T - Transcarpathia
+45284,Galaţi,Galác,T - Transcarpathia
+46182,Bonyhád,Bónjəd,T - Transcarpathia
+46186,Paks,Pakš,T - Transcarpathia
+46232,Alba Iulia (Karlsburg),Kárlsborg,T - Transcarpathia
+46233,Teiuş,Téviš,T - Transcarpathia
+46238,Cluj (Klausenburg),Klóuznborg,T - Transcarpathia
+46247,Magyar-Fráta,,T - Transcarpathia
+46265,Moineşti,Mojnéšt,T - Transcarpathia
+46268,Piatra-Neamţ,Piátrə-olt,T - Transcarpathia
+46269,Roman,Róman,T - Transcarpathia
+46272,Iveşti,Ivéšt,T - Transcarpathia
+46280,Leova,Ljévə,X - Southern Ukraine and Rumania
+46284,Huşi,Iš,X - Southern Ukraine and Rumania
+46298,Tighina (Bender),Bendér,X - Southern Ukraine and Rumania
+46302,Ackerman,,X - Southern Ukraine and Rumania
+46306,Odessa,Adés,X - Southern Ukraine and Rumania
+46327,Nikolayev,Nikolájəv,X - Southern Ukraine and Rumania
+46338,Kakhovka,Kaxóvkə,X - Southern Ukraine and Rumania
+47070,Dürmenach,Dérmənax,A - Alsace
+47075,Mulhouse,Milhóusə,A - Alsace
+47084,Endingen,Éndingə,"W - Austria, Czechoslovakia, Germany, Holland"
+47086,Gailingen,Gájlingə,"W - Austria, Czechoslovakia, Germany, Holland"
+47159,Wopfing,,"W - Austria, Czechoslovakia, Germany, Holland"
+47165,Kobersdorf,,"W - Austria, Czechoslovakia, Germany, Holland"
+47166,Mattersdorf,,"W - Austria, Czechoslovakia, Germany, Holland"
+47167,Német Keresztúr (Deutsch Kreuz),Céjləm,"W - Austria, Czechoslovakia, Germany, Holland"
+47170,Lackenbach,,T - Transcarpathia
+47175,Tet,,T - Transcarpathia
+47179,Dunajska Streda (Dunaszer-dahely),Sédəhəl,T - Transcarpathia
+47197,Vác,Vájcn,T - Transcarpathia
+47211,Pűspőkladány,Pišpoklodón,T - Transcarpathia
+47212,Berettyó-Újfalu,Beretjó-ujfólu,T - Transcarpathia
+47219,Hajdúhadház,Hòjduhódaz,T - Transcarpathia
+47223,Sîg Felső Szek (felső ’upper’),Éjbərsek (éjbər ’upper’),T - Transcarpathia
+47225,Tăşnad,Tóšnad,T - Transcarpathia
+47228,”near Sighet”,,T - Transcarpathia
+47231,Buciumi (Vármező),Varmézə,T - Transcarpathia
+47232,Hida,Hidólmoš,T - Transcarpathia
+47233,Dej,Dejž,T - Transcarpathia
+47236,Copălnic Mănăştir,Minaštúr,T - Transcarpathia
+47237,Halmi,Holmín,T - Transcarpathia
+47239,(section of Marmarós Sziget),Míkəv,T - Transcarpathia
+47240,Moiseiu,Misíf,T - Transcarpathia
+47241,Bistriţa,Bístric,T - Transcarpathia
+47243,Prundu Bârgăului ~ Bîrgăului,Bórgə,T - Transcarpathia
+47246,Rodna,Ródnə,T - Transcarpathia
+47247,Vişeu(l) de Sus (Ober-Wischau),Ojbərvíšvə,T - Transcarpathia
+47248,Ruscova,Rískevə,T - Transcarpathia
+47256,Gura Humorului,Hamór,T - Transcarpathia
+47260,Dorohoi,Dorxój,T - Transcarpathia
+47266,Hârlău/Hîrlău,Erlój,T - Transcarpathia
+47267,Zamostea,Zámisk,T - Transcarpathia
+47268,Botoşani,Botšón,T - Transcarpathia
+47271,Podul Iloaiei,Podəlój,T - Transcarpathia
+47272,Iaši,Jos,X - Southern Ukraine and Rumania
+47277,Ştefăneşti,Štefinéšt,X - Southern Ukraine and Rumania
+47279,Bălţi,Belc,X - Southern Ukraine and Rumania
+47283,Chisinău,Kéšənəv,X - Southern Ukraine and Rumania
+47287,Marculeşti,M[a/ə]rkuléšt,X - Southern Ukraine and Rumania
+47288,Unchiteşti,Unkitéšt,X - Southern Ukraine and Rumania
+47295,Flora,Flórə,X - Southern Ukraine and Rumania
+47298,Balta,Bóltə,X - Southern Ukraine and Rumania
+47302,Petroverovka (Paplovsk),Paplósk,X - Southern Ukraine and Rumania
+47307,Gvozdavka,Gvozdóvkə,X - Southern Ukraine and Rumania
+47308,Krovoye Ozero,Krivózər,X - Southern Ukraine and Rumania
+47337,Ingulets-Shirokoye,Ingúl-širóki,X - Southern Ukraine and Rumania
+47339,Novy Vitebsk (novy ’new’),Najvítepsk (naj ’new’),X - Southern Ukraine and Rumania
+47393,Rostov,Róstov,X - Southern Ukraine and Rumania
+48070,Breisach,,"W - Austria, Czechoslovakia, Germany, Holland"
+48071,Wintzenheim,Víncənə,A - Alsace
+48072,Grussenheim,Grǘsə,A - Alsace
+48074,Oberschaeffolsheim,Šéflsə,A - Alsace
+48075,Gerstheim,Gérštə,A - Alsace
+48076,Rheinbischofsheim,,"W - Austria, Czechoslovakia, Germany, Holland"
+48077,Westhoffen,Veštófə,A - Alsace
+48078,Düppigheim,Dípšə,A - Alsace
+48085,Rexingen,,"W - Austria, Czechoslovakia, Germany, Holland"
+48104,Ichenhausen,,"W - Austria, Czechoslovakia, Germany, Holland"
+48108,Hainsfahrt,,"W - Austria, Czechoslovakia, Germany, Holland"
+48118,Ingolstadt,,"W - Austria, Czechoslovakia, Germany, Holland"
+48161,Wien,,"W - Austria, Czechoslovakia, Germany, Holland"
+48171,Bratislava (Pressburg),,"W - Austria, Czechoslovakia, Germany, Holland"
+48172,Vel’ký Mager (Magendorf),Mógndorf,T - Transcarpathia
+48177,Hodonin (Göding),,"W - Austria, Czechoslovakia, Germany, Holland"
+48200,Cernăuţi,Čérnəvic,X - Southern Ukraine and Rumania
+48203,Szikszó,Siks,T - Transcarpathia
+48215,Sátoraljaújhely,Íhəl,T - Transcarpathia
+48216,(section of Michal’ovce),Strinján,T - Transcarpathia
+48217,Košice,Kášo,T - Transcarpathia
+48220,Kivjažd,Kivjážd,T - Transcarpathia
+48223,"(near Mužijovo, Vary, Výlak)",Bóržəvə,T - Transcarpathia
+48224,Užhorod (Ungwar/Ungvár),Ingvər,T - Transcarpathia
+48226,Mukačevo,Mínkač,T - Transcarpathia
+48231,Velký Rakovec,Rákəvic,T - Transcarpathia
+48232,Buštino,Bíštənə,T - Transcarpathia
+48233,Niž. Apša (nizný ’lower’),Intərápšə (íntər ’lower’),T - Transcarpathia
+48235,Toruń,Tójərn,T - Transcarpathia
+48243,Żabie,Žábjə,T - Transcarpathia
+48245,Dora,Dórə,T - Transcarpathia
+48247,Dolina,Dólənə,G - Eastern Galicia
+48248,Stanislawów,Stánislə,G - Eastern Galicia
+48250,Tłuste,Toust,T - Transcarpathia
+48251,Rostochi,Róstik,T - Transcarpathia
+48253,Storojineţ,Stróžinic,T - Transcarpathia
+48254,Kołomyja,Kiləmáj,G - Eastern Galicia
+48256,Zviniace,Zvinjéčkə,G - Eastern Galicia
+48257,Zviniace,Zvinjéčkə,G - Eastern Galicia
+48259,Jagielnica,Jigólnic,G - Eastern Galicia
+48260,Kitaygorod,Kitárəd ,T - Transcarpathia
+48261,Noua Suliţa,Novəséləc,T - Transcarpathia
+48263,Lipcani,Lipkón,V - Northern Ukraine
+48265,Hotin,Xetín,X - Southern Ukraine and Rumania
+48266,Kamentes Podol’sky,Kómənic,X - Southern Ukraine and Rumania
+48267,Skała,Skálə,X - Southern Ukraine and Rumania
+48268,Shatava,Štóvə,X - Southern Ukraine and Rumania
+48272,Briceva,Bríčəvə,X - Southern Ukraine and Rumania
+48274,Briceni,Bričón,X - Southern Ukraine and Rumania
+48276,Ozarintsy,Azárinic,X - Southern Ukraine and Rumania
+48277,Staray Ušica,Íšicə,X - Southern Ukraine and Rumania
+48280,Zguriţa,Zgúricə,X - Southern Ukraine and Rumania
+48281,Soroca,Serókə,X - Southern Ukraine and Rumania
+48283,Peschanka,Piščónkə,X - Southern Ukraine and Rumania
+48284,Dzygovka,Dzigóvkə,X - Southern Ukraine and Rumania
+48286,Tul’chin,Tolčín,X - Southern Ukraine and Rumania
+48288,Krasnoye,Krósnə,X - Southern Ukraine and Rumania
+48289,Nemirov,Néməref,X - Southern Ukraine and Rumania
+48292,Bershad,Béršət,X - Southern Ukraine and Rumania
+48293,Peschana,Piščón,X - Southern Ukraine and Rumania
+48294,Verkhovka,Verxívkə,X - Southern Ukraine and Rumania
+48296,Teplik,Teplík,X - Southern Ukraine and Rumania
+48297,Gaysin,Hájsin,X - Southern Ukraine and Rumania
+48300,Tri Dubi,Trdúbəs,X - Southern Ukraine and Rumania
+48302,Golosvoko,Oləskóv,X - Southern Ukraine and Rumania
+48309,Tal’noye,Tólnə,X - Southern Ukraine and Rumania
+48311,Lyubomirka,Libəmírkə,X - Southern Ukraine and Rumania
+48324,Kirovograd (Yelizavetgrad),Jolosvét,X - Southern Ukraine and Rumania
+48337,Aleksandriya,Aləksandrí,X - Southern Ukraine and Rumania
+48354,Denpropetrovsk (Yekaterinoslav),Katərinəsláv,X - Southern Ukraine and Rumania
+49061,Hayange,Hajíngə,A - Alsace
+49063,Differten,,"W - Austria, Czechoslovakia, Germany, Holland"
+49064,Luxembourg,,"W - Austria, Czechoslovakia, Germany, Holland"
+49065,Kirf,,"W - Austria, Czechoslovakia, Germany, Holland"
+49075,Meisenheim,,"W - Austria, Czechoslovakia, Germany, Holland"
+49077,Bernkastel-Cues,,"W - Austria, Czechoslovakia, Germany, Holland"
+49079,Bad Kreuznach,,"W - Austria, Czechoslovakia, Germany, Holland"
+49080,Alzey,,"W - Austria, Czechoslovakia, Germany, Holland"
+49081,Rülzheim,,"W - Austria, Czechoslovakia, Germany, Holland"
+49082,Langenbrücken,,"W - Austria, Czechoslovakia, Germany, Holland"
+49087,Mainz,,"W - Austria, Czechoslovakia, Germany, Holland"
+49089,Hergershausen,,"W - Austria, Czechoslovakia, Germany, Holland"
+49091,Heilbronn,,"W - Austria, Czechoslovakia, Germany, Holland"
+49093,Schwäbisch Hall,,"W - Austria, Czechoslovakia, Germany, Holland"
+49095,Walldürn,,"W - Austria, Czechoslovakia, Germany, Holland"
+49096,Niederstetten,,"W - Austria, Czechoslovakia, Germany, Holland"
+49099,Oberaltertheim,,"W - Austria, Czechoslovakia, Germany, Holland"
+49103,Markt Berolzheim,,"W - Austria, Czechoslovakia, Germany, Holland"
+49105,Windsheim,,"W - Austria, Czechoslovakia, Germany, Holland"
+49114,Nürnberg,,"W - Austria, Czechoslovakia, Germany, Holland"
+49117,Schesslitz,,"W - Austria, Czechoslovakia, Germany, Holland"
+49121,Regensburg,,"W - Austria, Czechoslovakia, Germany, Holland"
+49122,Cham,,"W - Austria, Czechoslovakia, Germany, Holland"
+49128,Tachov,,"W - Austria, Czechoslovakia, Germany, Holland"
+49146,Nové Vši,,"W - Austria, Czechoslovakia, Germany, Holland"
+49154,Humpoletz,,"W - Austria, Czechoslovakia, Germany, Holland"
+49162,Brno (Brünn),,"W - Austria, Czechoslovakia, Germany, Holland"
+49172,Uherské Hradiště (Ungarisch Hradisch),,"W - Austria, Czechoslovakia, Germany, Holland"
+49175,Holešov,,"W - Austria, Czechoslovakia, Germany, Holland"
+49179,Tropava (Troppau),,"W - Austria, Czechoslovakia, Germany, Holland"
+49188,Těšin,,"W - Austria, Czechoslovakia, Germany, Holland"
+49200,Lutowiska,Lítəvisk ,G - Eastern Galicia
+49204,Bukowina,Bukovíni,H - Western Galicia
+49205,Nowy Sącz,Canc,H - Western Galicia
+49212,Kurima,Kírəmə,T - Transcarpathia
+49216,Rymanów,Rímənəf,H - Western Galicia
+49217,Ryglice,Riglíc,H - Western Galicia
+49220,Szczawne,Ščávni,H - Western Galicia
+49221,Cisna,Čísnə,H - Western Galicia
+49224,Ulucz,Ilíč,G - Eastern Galicia
+49225,Ustrzyki Dolne,Ístrik,G - Eastern Galicia
+49227,Błażowa,Blúžif,H - Western Galicia
+49229,Przemyśl,Préməslə/Pšémiš,G - Eastern Galicia
+49230,Mościska,Moščísk,G - Eastern Galicia
+49231,Rybnik,Ríbnik,G - Eastern Galicia
+49233,Bolechów,Bóləxəf,G - Eastern Galicia
+49235,Drohobycz,Drúbič,G - Eastern Galicia
+49237,Jaworów,Jávərif,G - Eastern Galicia
+49242,Kałusz,Káliš,G - Eastern Galicia
+49243,Bołszowce,Bólšəvic,G - Eastern Galicia
+49245,Strzeliska Nowe,Strelsk,G - Eastern Galicia
+49246,Rohatyn,Retín,G - Eastern Galicia
+49247,Lwów (Lemberg),Lémbərik,G - Eastern Galicia
+49248,Przemyślany,Prəmišlán,G - Eastern Galicia
+49251,Podhajce,Pidájic,G - Eastern Galicia
+49253,Chorostków,Xróskif,G - Eastern Galicia
+49254,Wibudów,Víbədəf,G - Eastern Galicia
+49256,Chodaczkówmaly,Xodátškif,G - Eastern Galicia
+49259,Zbaraż,Zbárəš,G - Eastern Galicia
+49261,Satanov,Sótənəf,V - Northern Ukraine
+49262,Gorodok,Gréjding,V - Northern Ukraine
+49263,Chemerovtsy,Čimérovic,V - Northern Ukraine
+49264,Volochisk,Voləčísk,V - Northern Ukraine
+49266,Krasilov,Krisílif,V - Northern Ukraine
+49267,Łanowce,Lónəvic,V - Northern Ukraine
+49271,Zin’kov,Zínkəv,V - Northern Ukraine
+49272,Bar,Bar,V - Northern Ukraine
+49275,Staraya Sinyava (staraya ’old’),Oltsinjóvi (old ’old’),V - Northern Ukraine
+49276,Letichev,Létičəf,V - Northern Ukraine
+49278,Ladyh,Ladí,V - Northern Ukraine
+49279,Lyubar,Lúbər,V - Northern Ukraine
+49282,Vinnitsa,Vínəcə,V - Northern Ukraine
+49285,Kalinovka,Kalénəfkə,V - Northern Ukraine
+49286,Vakhnovka,Váxnəfkə,V - Northern Ukraine
+49287,Yanushpol,Janəšpóljə,V - Northern Ukraine
+49288,Berdichev,Bárdičef,V - Northern Ukraine
+49289,Belopol’ye,Biləpíljə,V - Northern Ukraine
+49291,Il’intsy,Ílənist,V - Northern Ukraine
+49293,Monastyrishche,Monəstríč,V - Northern Ukraine
+49296,Volodarka,Velóderkə,V - Northern Ukraine
+49298,Pavoloch’,Pávəlič,V - Northern Ukraine
+49303,Zvenigorodka,Zvinərótkə,V - Northern Ukraine
+49304,Stavishche,Stavíšč,V - Northern Ukraine
+49305,Tarashcha,Taráščə ,V - Northern Ukraine
+49307,Belaya tserkov’ (belaya ’white tserkov’ ’church’),Švarctímə (švarc ’black’ tímə ’church’),V - Northern Ukraine
+49312,Shpola,Špólə,V - Northern Ukraine
+49317,Rzhishchev,Režiščəv,V - Northern Ukraine
+49324,Cherkassy,Čerkás,V - Northern Ukraine
+49338,Mirgorod,Mírgorod,V - Northern Ukraine
+50062,Kyllburg ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50067,Eschweiler ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50069,Köln ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50075,Vallendar ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50077,Bonn ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50082,Frankfurt am Main ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50083,Staden,,"W - Austria, Czechoslovakia, Germany, Holland"
+50084,Hadamar ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50085,Wetzlar ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50088,Laasphe ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50091,Alzenau ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50093,Ober Thulba,,"W - Austria, Czechoslovakia, Germany, Holland"
+50094,Nieder Ohmen,,"W - Austria, Czechoslovakia, Germany, Holland"
+50095,Hintersteinau,,"W - Austria, Czechoslovakia, Germany, Holland"
+50097,Frielendorf ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50102,Ermershausen ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50103,Reckendorf ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50104,Mellrichstadt ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50107,Eisenach ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50136,Sobědruhy (Soborten),,"W - Austria, Czechoslovakia, Germany, Holland"
+50142,Praha (Prag) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50144,Litoměřice (Leitmeritz),,"W - Austria, Czechoslovakia, Germany, Holland"
+50154,Jablonec (Gablonz),,"W - Austria, Czechoslovakia, Germany, Holland"
+50156,Trutnov (Trautenau) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50177,Wansen,,"W - Austria, Czechoslovakia, Germany, Holland"
+50183,Zabrze ,,"W - Austria, Czechoslovakia, Germany, Holland"
+50186,Beuthen,,"W - Austria, Czechoslovakia, Germany, Holland"
+50190,Oświęcim,Ošpicín,H - Western Galicia
+50191,Katowice (Kattowitz),Kátəvic ,"W - Austria, Czechoslovakia, Germany, Holland"
+50192,Sosnowiec,Sosnéfcə,H - Western Galicia
+50193,Kraków,Krúkə,H - Western Galicia
+50196,Wolbrom,Vólbrəm,P - (Northern) Poland
+50197,Częstochowa,Čénstəxəf,P - (Northern) Poland
+50199,Szczekociny,Štikičín,P - (Northern) Poland
+50201,Proszowice,Próšəvic,P - (Northern) Poland
+50202,Żabno,Zábnə,H - Western Galicia
+50204,Jędrzejów,Jéndzəf,P - (Northern) Poland
+50205,Pińczów,Pínčəf,P - (Northern) Poland
+50206,Chmielnik ,Xmélnik,P - (Northern) Poland
+50212,Dębica ,Démbic,P - (Northern) Poland
+50213,Sędziszów ,Šéndəšəf ,H - Western Galicia
+50216,Gorzyce ,Góržic,P - (Northern) Poland
+50218,Ostrowiec,Óstrəfcə,P - (Northern) Poland
+50221,Rzeszów ,Rájšə,H - Western Galicia
+50222,Sieniawa ,Šínjəvə,P - (Northern) Poland
+50224,Rozwadów,Rózvədəf,P - (Northern) Poland
+50225,Biłgoraj ,Bílgra,P - (Northern) Poland
+50227,Zaklików ,Záklkəf,P - (Northern) Poland
+50229,Szczebrzeszyn ,Šabəšín,P - (Northern) Poland
+50231,Cieszanów ,Čéšənəf,G - Eastern Galicia
+50235,Tomaszów Lubelski ,Tóməšəf,P - (Northern) Poland
+50236,Uhnów,Hívnəf,P - (Northern) Poland
+50237,Zamość ,Zámišč,P - (Northern) Poland
+50239,Hrubieszów,Ribəšój,P - (Northern) Poland
+50242,Dobrotwór,Dobrətvór,G - Eastern Galicia
+50243,Toporów,Tóprəf,G - Eastern Galicia
+50244,Krystynopol,Krisnəpóljə,G - Eastern Galicia
+50246,Koniuchy ,Kónjəx,G - Eastern Galicia
+50248,Włodzimierz,Lúdmər,G - Eastern Galicia
+50251,Brody ,Brot,G - Eastern Galicia
+50253,Krzemieniec,Kréminic,G - Eastern Galicia
+50257,Łuck,Louck,G - Eastern Galicia
+50259,Olyka ,Olík,G - Eastern Galicia
+50260,Zaslavl,Zásləv,V - Northern Ukraine
+50262,Ostróg,Óstrə,V - Northern Ukraine
+50263,Slavuta,Slavítə,V - Northern Ukraine
+50264,Rowne,Róvnə,V - Northern Ukraine
+50267,Derazhno,Drážnə,V - Northern Ukraine
+50268,Tuczyn,Tučín,V - Northern Ukraine
+50271,Shepetovka,Šipətífkə,V - Northern Ukraine
+50273,Mar’yanovka,Marjánəfkə,V - Northern Ukraine
+50275,Novograd-Volynskiy (Zvyhyl),Zvil,V - Northern Ukraine
+50280,Zhitomir,Žítomər,V - Northern Ukraine
+50281,Chudnov,Čidnív,V - Northern Ukraine
+50283,Pryazhev,Pražév,V - Northern Ukraine
+50285,Chernyakhov,Čérnjəxəv,V - Northern Ukraine
+50294,Korostyshev,Kóršəv,V - Northern Ukraine
+50296,Makarov,Məkárəv,V - Northern Ukraine
+50297,Malin,Málin,V - Northern Ukraine
+50304,Gostomel’,Hastómljə,V - Northern Ukraine
+50306,Borispol’,Bəríspoljə,V - Northern Ukraine
+50312,Pereyaslav,Perejásləv,V - Northern Ukraine
+50329,Dmitriyevka,Dmítrəfkə,V - Northern Ukraine
+50334,Lokhvitsa,Lóxvic,V - Northern Ukraine
+51062,Glehn,,"W - Austria, Czechoslovakia, Germany, Holland"
+51064,Hinsbeck,,"W - Austria, Czechoslovakia, Germany, Holland"
+51066,Mülheim an der Ruhr ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51067,Goch ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51068,Bocholt ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51072,Meinerzhagen ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51073,Littfeld,,"W - Austria, Czechoslovakia, Germany, Holland"
+51075,Lünen ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51087,Beckum ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51092,Heinebach,,"W - Austria, Czechoslovakia, Germany, Holland"
+51093,Abterode,,"W - Austria, Czechoslovakia, Germany, Holland"
+51098,Beverungen ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51099,Northeim ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51112,Apolda ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51143,Görlitz ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51158,Grünberg,,"W - Austria, Czechoslovakia, Germany, Holland"
+51166,Rawitsch,,"W - Austria, Czechoslovakia, Germany, Holland"
+51168,Leszno (Lissa) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51170,Kępno (Kempen) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+51171,Breslau,,"W - Austria, Czechoslovakia, Germany, Holland"
+51173,Namslau,,"W - Austria, Czechoslovakia, Germany, Holland"
+51174,Jutroszyn,,"W - Austria, Czechoslovakia, Germany, Holland"
+51180,Wieruszów,Vérəšəf,P - (Northern) Poland
+51185,Złoczew,Zlóčəf,P - (Northern) Poland
+51187,Kalisz,Kúwəš,P - (Northern) Poland
+51189,Poddębice ,Podémbic,P - (Northern) Poland
+51194,Łask ,Lúisk,P - (Northern) Poland
+51195,Bełchatów ,Bélxətəf,P - (Northern) Poland
+51196,Piotrków Trybunalski ,Pétrəkəf,P - (Northern) Poland
+51198,Łódź ,Loč,P - (Northern) Poland
+51199,Brzeziny ,Brežín,P - (Northern) Poland
+51202,Końskie ,Kinck,P - (Northern) Poland
+51203,Szydłowiec ,Šidlóvcə,P - (Northern) Poland
+51207,Skierniewice ,Skérnəvic,P - (Northern) Poland
+51209,Grójec ,Grícə,P - (Northern) Poland
+51213,Józefów,Jízəfəf,P - (Northern) Poland
+51214,Radom ,Rúdim,P - (Northern) Poland
+51215,Kozienice ,Kóžənic,P - (Northern) Poland
+51217,Warka ,Vúrki,P - (Northern) Poland
+51222,Lublin ,Ləblín,P - (Northern) Poland
+51223,Łęczna ,Lénčnə,P - (Northern) Poland
+51224,Kurów ,Kúrəf,P - (Northern) Poland
+51225,Lubartów ,Lívərtif,P - (Northern) Poland
+51228,Luków ,Líkəvə,P - (Northern) Poland
+51229,Międzyrzec,Mézrič,P - (Northern) Poland
+51232,Chełm ,Xéləm,P - (Northern) Poland
+51233,Świerze,Sverš,P - (Northern) Poland
+51237,Lomazy,Lumáz,P - (Northern) Poland
+51238,Sławatycze ,Slávətič,P - (Northern) Poland
+51241,Nikitichi,It,P - (Northern) Poland
+51243,Kowel,Kóvlə,P - (Northern) Poland
+51245,Ratno,Rátnə,P - (Northern) Poland
+51246,Nujno,Nújnə,P - (Northern) Poland
+51253,Kołki,Kolk,P - (Northern) Poland
+51258,Lubieszów,Libəšójv,P - (Northern) Poland
+51260,Żołudsk,Žalúck,V - Northern Ukraine
+51264,Włodzimierzec,Boldímirəc,V - Northern Ukraine
+51265,Dąbrowica,Démbrovic,V - Northern Ukraine
+51283,Ovruch,Avríč,V - Northern Ukraine
+51286,Skorodnoye,Skaródnə,V - Northern Ukraine
+51287,Lelchitsy,Ləlčíč,V - Northern Ukraine
+51300,Chernobyl’,Černóbl’,V - Northern Ukraine
+51301,Gornostaypol,Hornestájpoljə,V - Northern Ukraine
+51314,Chernigov,Černív,V - Northern Ukraine
+51322,Borzna ,Bórznə,V - Northern Ukraine
+51323,Bakhmach ,Baxmíc,V - Northern Ukraine
+51331,Konotop ,Konotóp,V - Northern Ukraine
+52041,s'Gravenhage,,"W - Austria, Czechoslovakia, Germany, Holland"
+52046,Amsterdam ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52055,Harderwijk ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52063,Eibergen ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52065,Almelo ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52068,Assen ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52083,Minden ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52093,Hildesheim ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52094,Hannover ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52102,Braunschweig ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52135,Berlin ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52155,Schwerin ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52166,Poznań (Posen) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+52169,Chodziez,Xoč,"W - Austria, Czechoslovakia, Germany, Holland"
+52173,Zagórów ,Zágrəvə,P - (Northern) Poland
+52177,Rogozno (Rogasen),,P - (Northern) Poland
+52180,Koło ,Kojl,P - (Northern) Poland
+52181,Konin ,Knin,P - (Northern) Poland
+52184,Kleczew ,Kléčəvə,P - (Northern) Poland
+52185,Izbica,Ížbic,P - (Northern) Poland
+52189,Aleksandrów,Aləksándrovə,P - (Northern) Poland
+52192,Kutno ,Kítnə,P - (Northern) Poland
+52193,Łowicz ,Lójvič,P - (Northern) Poland
+52195,Gostynin ,Gostənín,P - (Northern) Poland
+52196,Płock ,Plock,P - (Northern) Poland
+52197,Lipno ,Lípnə,P - (Northern) Poland
+52198,Sierpc ,Šeps,P - (Northern) Poland
+52201,Sochaczew ,Sóxəčəf,P - (Northern) Poland
+52202,Błonie ,Blójnə,P - (Northern) Poland
+52205,Zakroczym ,Zakričín,P - (Northern) Poland
+52207,Bodzanów,Bódzənəf,P - (Northern) Poland
+52208,Ciechanów ,Čexánovə,P - (Northern) Poland
+52210,Różan ,Režán,P - (Northern) Poland
+52211,Warszawa ,Váršə,P - (Northern) Poland
+52212,Kolbiel ,Kólbjel,P - (Northern) Poland
+52213,Kałuszyn ,Kaləšín,P - (Northern) Poland
+52214,Radzymin ,Radzmín,P - (Northern) Poland
+52215,Jadów ,Jádəvə,P - (Northern) Poland
+52217,Maków ,Mákəvə,P - (Northern) Poland
+52219,Brok ,Brok,P - (Northern) Poland
+52220,Rudka ,Rídik,P - (Northern) Poland
+52221,Siedlce ,Šédlic,P - (Northern) Poland
+52223,Losice,Lošíc,P - (Northern) Poland
+52224,Węgrów ,Véngərevə,P - (Northern) Poland
+52225,Drohiczyn nad Bugem,Drohíčin,P - (Northern) Poland
+52228,Jabłonka Kościelna ,Jablónkə,P - (Northern) Poland
+52229,Brańsk ,Brajnsk,P - (Northern) Poland
+52231,Biała Podlaska ,Bjálə,P - (Northern) Poland
+52233,Breść,Brisk,P - (Northern) Poland
+52235,Kleszczele ,Kliščél,P - (Northern) Poland
+52236,Kamieniec-Litewski,Kámənic,P - (Northern) Poland
+52237,Bielsk Podlaski ,Bilsk,P - (Northern) Poland
+52242,Kobryń,Kobrín,P - (Northern) Poland
+52244,Prużana,Prúžənə,P - (Northern) Poland
+52245,Malecz,Malč,P - (Northern) Poland
+52249,Rożana,Rožnój,P - (Northern) Poland
+52251,Drohiczyn,Drohíčn,P - (Northern) Poland
+52256,Telechany,Teləxán,P - (Northern) Poland
+52258,Byteń,Bútən,P - (Northern) Poland
+52261,Pińsk,Pinsk,P - (Northern) Poland
+52263,Duboy,Dubój,P - (Northern) Poland
+52268,Hancewicze,Háncəvic,P - (Northern) Poland
+52273,Turov,Túrəv,P - (Northern) Poland
+52278,Starobin,Staróbin,P - (Northern) Poland
+52279,Yushkavichi,Juškávic,P - (Northern) Poland
+52282,Petrikov,Pétrikəv,P - (Northern) Poland
+52283,Kopatkevichi,Kapítkəvič,P - (Northern) Poland
+52292,Kalinkovichi,Kalénkəvič,P - (Northern) Poland
+52294,Ozarichi,Azárič,P - (Northern) Poland
+52307,Streshin,Stréšin,P - (Northern) Poland
+52308,Zhlobin,Žlobín,P - (Northern) Poland
+52314,Gomel’,Hómljə,P - (Northern) Poland
+52327,Klintsy,Klíncə,P - (Northern) Poland
+52381,Yelets,Jélic,P - (Northern) Poland
+53072,Papenburg ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53074,Emden ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53075,Aurich ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53096,Altona,,"W - Austria, Czechoslovakia, Germany, Holland"
+53109,Lübeck ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53145,Stettin,,"W - Austria, Czechoslovakia, Germany, Holland"
+53146,Gollnow,,"W - Austria, Czechoslovakia, Germany, Holland"
+53162,Schönlanke,,"W - Austria, Czechoslovakia, Germany, Holland"
+53163,Schneidemühl,,"W - Austria, Czechoslovakia, Germany, Holland"
+53175,Chojnice,,"W - Austria, Czechoslovakia, Germany, Holland"
+53181,Bydgoszcz (Bromberg) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53186,Grudziądz (Graudenz) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53191,Dobrzyn,Dobrín,P - (Northern) Poland
+53192,Brodnica (Strasburg) ,,"W - Austria, Czechoslovakia, Germany, Holland"
+53193,Żuromin ,Žorəmín,P - (Northern) Poland
+53202,Mława ,Mlávə,P - (Northern) Poland
+53203,Chorzele ,Xóržl,P - (Northern) Poland
+53204,Gilgenburg,,"W - Austria, Czechoslovakia, Germany, Holland"
+53211,Krasnosielc ,Šilc,P - (Northern) Poland
+53212,Ostrolęka ,Ostrəlénkə,P - (Northern) Poland
+53215,Myszyniec ,Míšnic,P - (Northern) Poland
+53216,Kolno ,Kól’nə,P - (Northern) Poland
+53221,Łomża ,Lómzə,P - (Northern) Poland
+53223,Tykocin ,Tiktín,C - Northern Belorus
+53224,Szczuczyn ,Stučín,P - (Northern) Poland
+53225,Trzcianne ,Tréstinə,C - Northern Belorus
+53228,Grajewo,Grájvi,P - (Northern) Poland
+53231,Białystok ,Bjálistok,C - Northern Belorus
+53235,Sokółka,Səkólkə,D - Lithuania
+53236,Indura,Amdúr,D - Lithuania
+53238,Lipsk,Lipsk,D - Lithuania
+53239,Grodno,Gródni/Haródni,D - Lithuania
+53241,Brzostowica Wielka (wielka ’big’),Grejsbrəstovic (grejs ’big’) ,D - Lithuania
+53243,Zelwa,Zélvi,C - Northern Belorus
+53248,Ostryna,Astrín,D - Lithuania
+53249,Wasiliszki,Vasíləšok,D - Lithuania
+53251,Kozłowszczyna,Kazlójščinə,C - Northern Belorus
+53252,Mołczadz,Méjčət,C - Northern Belorus
+53255,Dworec,Dvóric,C - Northern Belorus
+53257,Lida,Lídə,C - Northern Belorus
+53259,Iwje,Íviə,C - Northern Belorus
+53261,Lachowicze,Léxəvič,C - Northern Belorus
+53262,Nieświez,Néšvic,C - Northern Belorus
+53264,Korelcze,Karélič,C - Northern Belorus
+53265,Stołpce,Stejpc,C - Northern Belorus
+53270,Koydanovo,Kójdənəv,C - Northern Belorus
+53271,Romanovo,Románəvə,C - Northern Belorus
+53272,Slutsk,Sluck,C - Northern Belorus
+53274,Uzda,Úzdə,C - Northern Belorus
+53277,Raków,Rákəv,C - Northern Belorus
+53278,Samokhvalovichi,Samaxválovič,C - Northern Belorus
+53279,Minsk,Minsk,C - Northern Belorus
+53282,Nove-Dorogi,Novədaró,C - Northern Belorus
+53286,Svisloch,Sísləvič,C - Northern Belorus
+53289,Berezino,Barézn,C - Northern Belorus
+53291,Bobruysk,Babrójsk,C - Northern Belorus
+53295,Klichev,Klíčəv,C - Northern Belorus
+53306,Gayshin,Hájšin,C - Northern Belorus
+53309,Chausy,Čavús,C - Northern Belorus
+53315,Krasnopolye,Krasnəpóljə,C - Northern Belorus
+53323,Mglin,Amlín,C - Northern Belorus
+54161,Köslin,,"W - Austria, Czechoslovakia, Germany, Holland"
+54181,Danzig,,"W - Austria, Czechoslovakia, Germany, Holland"
+54208,Königsberg,,"W - Austria, Czechoslovakia, Germany, Holland"
+54222,Przerośl,Pšərósljə,D - Lithuania
+54226,Virbalis,Verbəlóvə ,D - Lithuania
+54229,Naumiestis,Nájštot (naj ’new’ štot ‘city’),D - Lithuania
+54233,Veisiejai,Višéj,D - Lithuania
+54234,Vilkaviškis,Volkovisk,D - Lithuania
+54236,Prienai,Pren,D - Lithuania
+54239,Kaunas,Kóvnə,D - Lithuania
+54241,Liškiava,Lískəvi,D - Lithuania
+54244,Jieznas,Jésnə,D - Lithuania
+54249,Musninkai,Múšnik,D - Lithuania
+54253,Traby,Trab,D - Lithuania
+54256,Oszmiana,Óšmənə,D - Lithuania
+54257,Wilno,Vílnə,D - Lithuania
+54259,Kiemieliszki,Kamélišok,D - Lithuania
+54260,Wilejka,Viléjkə,D - Lithuania
+54262,Wolożyn,Valóžn,D - Lithuania
+54265,Smorgonie,Smargón,D - Lithuania
+54266,Kurzeniec,Kúrənic,C - Northern Belorus
+54271,Radoszkowiczy,Radoškóvič,C - Northern Belorus
+54273,Logojsk,Lahójsk,C - Northern Belorus
+54278,Budsław,Bujd,D - Lithuania
+54279,Dokszyce,Dókšic,D - Lithuania
+54282,Borisov,Barísəv,C - Northern Belorus
+54284,Zembin,Žébm,C - Northern Belorus
+54289,Lepel,L’épl,C - Northern Belorus
+54291,Bobr,Bóbər,C - Northern Belorus
+54292,Sloveni,Slovján,C - Northern Belorus
+54297,Chashniki,Cášnik,C - Northern Belorus
+54301,Shklov,Šklov,C - Northern Belorus
+54305,Orsha,Óršə,C - Northern Belorus
+54372,Tula,Túla,C - Northern Belorus
+55216,Rietavas,Rítəvə,D - Lithuania
+55218,Gargždai,Gorzd,D - Lithuania
+55221,Tauragè,Táurig,D - Lithuania
+55223,Jurbarkas,Júrbarik,D - Lithuania
+55224,Kvédarna,Xvejdán,D - Lithuania
+55226,Kražiai,Krózə,D - Lithuania
+55233,Kedainiai,Kejdán,D - Lithuania
+55236,Krakes,Krok,D - Lithuania
+55237,Siauliai,Šávl,D - Lithuania
+55241,Jonava,Jánəvə,D - Lithuania
+55244,Ramigala,Raməgólə,D - Lithuania
+55248,Panėvežys,Pónjəvəz,D - Lithuania
+55249,Kupiškis,Kúpišok,D - Lithuania
+55252,Molėtai,Malát,D - Lithuania
+55254,Anykščiai,Aníkšt,D - Lithuania
+55257,Šimonys,Šimánčə,D - Lithuania
+55258,Rokiškis,Rákišok,D - Lithuania
+55261,Święcjany Švenčionys,Svencján,D - Lithuania
+55263,Postawy,Póstəv,D - Lithuania
+55267,Zarasai (Novo-Aleksandrovsk),Novoaləksandróvsk,D - Lithuania
+55268,Daugavpils (Dünaburg),Dénəborg,D - Lithuania
+55271,Dunilowicze,Dunílovič,D - Lithuania
+55273,Głębokie,Glubók,D - Lithuania
+55277,Krāslava,Krəslávə,D - Lithuania
+55281,Kublichi,Kúblic,C - Northern Belorus
+55286,Polotsk,Pólock,C - Northern Belorus
+55292,Beshenkovichi,Bəšénkovič,C - Northern Belorus
+55301,Vitebsk,Vicjépsk,C - Northern Belorus
+55303,Kolyshki,Kolíšk,C - Northern Belorus
+55311,Mikulino,Məkúlinə,C - Northern Belorus
+55329,Belyy,Bjélo,C - Northern Belorus
+56214,Liepāja,Ləpáj,D - Lithuania
+56221,Alsėdžiai,Alčód,D - Lithuania
+56223,Kuršėnai,Kuršán,D - Lithuania
+56225,Saldus (Frauenburg),Fráumburg,J - Courland
+56227,Jaunmuiža (Neuhof),Nájhof,D - Lithuania
+56243,Biržai,Birz,D - Lithuania
+56244,"(near Janiszlei, Linkovy, Zejmele)",Kámədrec,D - Lithuania
+56247,Sarkan-Daugava (sarkan ’red’ Daugava [name of river]),Réjtə-dínə (réjtə ’red’ Dínə [name of river]),J - Courland
+56251,Pandėlys,Ponídəl,C - Northern Belorus
+56253,Subata,Súbat,C - Northern Belorus
+56254,Jaunjelgava (jaun ’new’),Najrí (naj ’new’),C - Northern Belorus
+56256,Krustpils (Kreuzburg),Krísborg,C - Northern Belorus
+56266,Viļāni,Viljón,C - Northern Belorus
+56274,Rezekne,Rezícə,C - Northern Belorus
+56276,Ludza,Ljucín,C - Northern Belorus
+56281,Osveya,Ósvə,C - Northern Belorus
+56293,Nevel’,Nevél,C - Northern Belorus
+57212,Piltene,Píltn,J - Courland
+57222,Talsi,Tálsn,J - Courland
+57401,Yaroslav,Jároslav,C - Northern Belorus
+58265,Tartu (Dorpat),Dérpət,J - Courland
